@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on: Secure data management app<br>I'm looking to collaborate on: Full Stack App Development<br>I'm currently learning: AI integration and automation<br>Ask me about: Full stack development with Python/Django, MERN Stack<br>Fun Fact: Automated workflows by 60% at Kerala Police by creating Secure Web apps where work were done manually.
+Currently working on: DealMkr & Procurie<br><br>
 
 
 ## 🌐 Socials:
